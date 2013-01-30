@@ -1,0 +1,42 @@
+body{
+	font-family: 'Molengo', sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: blue;
+}
+
+a:visited{
+	color: #00a;
+}
+
+aside{
+	width: 250px;
+	position: fixed;
+	height: 100%;
+}
+
+#content {
+	position: relative;
+	left: 240px;
+	float: left;
+	width: 720px;
+	height: 100%;
+}
+
+h1, h2, h3, h4, h5{
+	font-family: 'Josefin Slab', serif;	
+}
+
+li img{
+	margin-bottom: 20px;
+}
+
+h3{
+	margin-top: 50px;
+}
+
+cite{
+	font-style: italic;
+}
